@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @occasum13
+- 👀 I’m interested in learning and sharing experiences
+- 🌱 I’m currently learning html, css and JS
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me @0ccasum on IG
