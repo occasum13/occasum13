@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @occasum13 / João Paulo de Assis Gayer.
 - 👀 I’m interested in learning, working and sharing experiences!
-- 🌱 I’m currently learning html, css, JS and reactJS (and their respective libraries).
+- 🌱 I’m currently learning nodeJs, Typescript and databases with solid knowledge in html, css, JS and reactJS (and their respective libraries).
 - 📫 How to reach me: @occa.svm on IG or daybreak98@hotmail.com as e-mail.
