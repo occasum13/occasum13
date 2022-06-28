@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @occasum13 / João Paulo de Assis Gayer.
-- 👀 I’m interested in learning, working and sharing experiences! Take a look at my portfolio: https://my-resume-occasum13.vercel.app 
-- 🌱 I’m currently learning nodeJs, Typescript and databases with solid knowledge in html, css, JS and reactJS (and their respective libraries).
-- 📫 How to reach me: @occa.svm on IG, jpassissgayer@hotmail.com as e-mail or https://www.linkedin.com/in/joaogayer98/ for linkedin.
+- 👋 Olá! Sou @occasum13 / João Pa.
+- 👀 Tenho interesse em aprender, trabalhar e compartilhar experiências! Dê uma olhada no meu portfólio: https://my-resume-occasum13.vercel.app 
+- 🌱 Atualmente estou aprendendo a trabalhar com NodeJS, Typescript e PostegreSQL/databases. Possuo sólido conhecimento de HTML, CSS e JS/ReactJS.
+- 📫 Como me encontrar: Email - jpassissgayer@hotmail.com ou Linkedin - https://www.linkedin.com/in/joaogayer98/ 
